@@ -1,2 +1,5 @@
-# awesome_mmfont_designers
-Collection of Myanmar Font Designers Page to buy myanmar unicode fonts
+# Font Designer/ Font Studios
+
+- [One Type Font Studio](https://www.facebook.com/onetype.fontstudio/)
+- [Phoenix Digital Art](https://www.facebook.com/PhoenixDigitalArt/)
+- [Zinbo Design](https://www.facebook.com/zinbo.design/)
